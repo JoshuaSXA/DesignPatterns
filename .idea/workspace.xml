@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="077d2001-9255-44e9-b9ea-c6d99be684c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="077d2001-9255-44e9-b9ea-c6d99be684c4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,22 +26,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="59" />
+          <entry key="java" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6365" />
+          <entry key="java" value="6793" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6365" />
+          <entry key="JAVA" value="6793" />
         </counts>
       </usages-collector>
     </session>
@@ -51,16 +49,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProxyPattern/Image.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProxyPattern/RealImage.java">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/ChatRoom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -68,20 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProxyPattern/ProxyImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ProxyPattern/ProxyPatternMain.java">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="287">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -102,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FactoryClass/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/FactoryPattern/Circle.java" />
         <option value="$PROJECT_DIR$/src/FactoryPattern/Triangle.java" />
         <option value="$PROJECT_DIR$/src/FactoryPattern/ShapeFactory.java" />
@@ -153,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/ProxyPattern/RealImage.java" />
         <option value="$PROJECT_DIR$/src/ProxyPattern/ProxyImage.java" />
         <option value="$PROJECT_DIR$/src/ProxyPattern/ProxyPatternMain.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/ChatRoom.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/User.java" />
       </list>
     </option>
   </component>
@@ -162,11 +142,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="1337" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -189,12 +167,6 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ProxyPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -205,7 +177,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551326635625" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551340912166" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -225,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProxyPatternMain">
+  <component name="RunManager" selected="Application.MediatorPatternMain">
     <configuration name="AdapterPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterPattern.AdapterPatternMain" />
       <module name="DesignPatterns" />
@@ -239,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuilderPattern.BuilderPatternMain" />
+    <configuration name="IteratorPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorPattern.IteratorPatternMain" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BuilderPattern.*" />
+          <option name="PATTERN" value="IteratorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IteratorPattern.IteratorPatternMain" />
+    <configuration name="MediatorPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediatorPattern.MediatorPatternMain" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IteratorPattern.*" />
+          <option name="PATTERN" value="MediatorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,19 +264,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BuilderPatternMain" />
       <item itemvalue="Application.PrototypePatternMain" />
       <item itemvalue="Application.AdapterPatternMain" />
       <item itemvalue="Application.IteratorPatternMain" />
       <item itemvalue="Application.ProxyPatternMain" />
+      <item itemvalue="Application.MediatorPatternMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MediatorPatternMain" />
         <item itemvalue="Application.ProxyPatternMain" />
         <item itemvalue="Application.IteratorPatternMain" />
         <item itemvalue="Application.AdapterPatternMain" />
         <item itemvalue="Application.PrototypePatternMain" />
-        <item itemvalue="Application.BuilderPatternMain" />
       </list>
     </recent_temporary>
   </component>
@@ -327,18 +299,18 @@
       <workItem from="1550593241888" duration="186000" />
       <workItem from="1550729862337" duration="107000" />
       <workItem from="1550746069998" duration="178000" />
-      <workItem from="1551324051848" duration="1784000" />
+      <workItem from="1551324051848" duration="2961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13644000" />
+    <option name="totallyTimeSpent" value="14821000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1337" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14378029" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12732475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,7 +319,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36746988" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5228916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,20 +377,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/Green.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/Blue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -745,8 +703,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProxyPattern/ProxyPatternMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/ChatRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
